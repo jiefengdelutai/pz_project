@@ -156,6 +156,6 @@ pz_project/
 
 ## 关于作者
 
-**Rice!** · 前端开发作品集
+**Rice!**
 
 关注业务流程、双端交互与可维护的 Vue 组件组织。欢迎通过 [GitHub Issues](https://github.com/jiefengdelutai/pz_project/issues) 交流实现思路与改进建议。
