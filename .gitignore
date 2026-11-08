@@ -1,0 +1,28 @@
+# Dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+*.log
+logs/
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.local
+*.pem
+*.key
+*.p12
+*.pfx
+# Generated files
+*.timestamp-*.mjs
+auto-imports.d.ts
+components.d.ts
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Private publication staging
+.portfolio-publish/
+# Unused contact QR asset: excluded from public portfolio
+pzH5/public/images/qun_qr.jpg
